@@ -1,0 +1,191 @@
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: ID : 1001 | Name : Rahul Sharma | Dept : IT | Designation : Software Engineer | Basic : Rs. 50000.00 | Net : Rs. 58800.00
+ID : 1002 | Name : Priya Reddy | Dept : HR | Designation : HR Manager | Basic : Rs. 40000.00 | Net : Rs. 47000.00
+ID : 1003 | Name : Amit Verma | Dept : Finance | Designation : Accountant | Basic : Rs. 35000.00 | Net : Rs. 41100.00
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter employee ID for payslip: ----------PAYSLIP----------
+Employee ID  : 1001
+Name         : Rahul Sharma
+Department   : IT
+Designation  : Software Engineer
+Basic Salary : Rs. 50000.00
+HRA (20%)    : Rs. 10000.00
+DA (10%)     : Rs. 5000.00
+Gross Salary : Rs. 65000.00
+PF (12%)     : Rs. 6000.00
+Prof. Tax    : Rs. 200.00
+Net Salary   : Rs. 58800.00
+-----------------------------
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: IT : 1 employee(s), Total Net Payroll: Rs. 58800.00
+HR : 1 employee(s), Total Net Payroll: Rs. 47000.00
+Finance : 1 employee(s), Total Net Payroll: Rs. 41100.00
+Total Employees: 3, Total Net Payroll: Rs. 146900.00
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter name to search: ID : 1002 | Name : Priya Reddy | Dept : HR | Designation : HR Manager | Basic : Rs. 40000.00 | Net : Rs. 47000.00
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter name: Enter phone: Enter department: Enter designation: Enter basic salary: Invalid salary. Please enter a number.
+Enter basic salary: Employee added with ID 1004
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: ID : 1001 | Name : Rahul Sharma | Dept : IT | Designation : Software Engineer | Basic : Rs. 50000.00 | Net : Rs. 58800.00
+ID : 1002 | Name : Priya Reddy | Dept : HR | Designation : HR Manager | Basic : Rs. 40000.00 | Net : Rs. 47000.00
+ID : 1003 | Name : Amit Verma | Dept : Finance | Designation : Accountant | Basic : Rs. 35000.00 | Net : Rs. 41100.00
+ID : 1004 | Name : Sneha Patel | Dept : IT | Designation : Developer | Basic : Rs. 45000.00 | Net : Rs. 52900.00
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter employee ID to update: Enter new basic salary: Employee updated.
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter employee ID for payslip: ----------PAYSLIP----------
+Employee ID  : 1003
+Name         : Amit Verma
+Department   : Finance
+Designation  : Accountant
+Basic Salary : Rs. 38000.00
+HRA (20%)    : Rs. 7600.00
+DA (10%)     : Rs. 3800.00
+Gross Salary : Rs. 49400.00
+PF (12%)     : Rs. 4560.00
+Prof. Tax    : Rs. 200.00
+Net Salary   : Rs. 44640.00
+-----------------------------
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter employee ID to delete: Employee deleted.
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: ID : 1001 | Name : Rahul Sharma | Dept : IT | Designation : Software Engineer | Basic : Rs. 50000.00 | Net : Rs. 58800.00
+ID : 1003 | Name : Amit Verma | Dept : Finance | Designation : Accountant | Basic : Rs. 38000.00 | Net : Rs. 44640.00
+ID : 1004 | Name : Sneha Patel | Dept : IT | Designation : Developer | Basic : Rs. 45000.00 | Net : Rs. 52900.00
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Invalid choice. Please try again.
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Enter name to search: No employee found.
+
+===== Employee Payroll Management System =====
+1. Display all employees
+2. Add employee
+3. Search by ID
+4. Search by name
+5. Update employee
+6. Delete employee
+7. Generate payslip
+8. Department-wise summary
+9. Exit
+Enter your choice: Exiting. Thank you!
